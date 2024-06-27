@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+.navbar{
+    background-color: 
+    #F55A5A;
+    color: #fff;
+}
+.nav--title{
+  font-weight:500;
+  font-size: 17px;
+}
+.bi-globe-europe-africa{
+  font-size: 19px;
+}
+.travelcard--detail{
+  height: 168px;
+  max-width:980px;
+  border-radius: 5px;
+  margin-top: 70px;
+}
+.travelcard--image{
+  /* height: 168px; */
+  border-radius: 5px;
+}
+.bi-geo-alt-fill{
+  color: #F55A5A ;
+  font-size: 14px;
+}
+.travel--country{
+  font-size: 12.24px;
+  font-weight: 400;
+  /* line-height: 12.39px; */
+  /* letter-spacing: 17%; */
+}
+.travel--links{
+  font-weight: 400;
+  font-size: 12.24px;
+  color: #918E9B;
+}
+.travel--date{
+  font-weight: 700;
+  font-size: 12.24px;
+  color:#2B283A;
+  
+}
+.travel--description{
+  font-weight: 400;
+  font-size: 14.24px;
+  color: #2B283A;
+}
+.travel--title{
+  font-weight: 700;
+  font-size: 25px;
+  color: #2B283A;
+}
+
+
